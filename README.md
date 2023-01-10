@@ -1,2 +1,2 @@
-# getpip
+# get pip
 gets pip
